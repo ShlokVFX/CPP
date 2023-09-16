@@ -35,5 +35,6 @@ int main()
 	cout << "Next Palindrome :";
 	cout << num;
 	return 0;
+    cout << "LOL";
 }
-// Contribute by :- Tejas Bhavsar
+//("Contribute by :- Shlok Limbhare")
